@@ -1,3 +1,7 @@
+//THIS IS TEST FILE
+//ORIGINALY anchor.test.ts in Solana Playground
+//was exported to vscode
+//TODO: EDIT AND REVIEW
 import * as anchor from "@coral-xyz/anchor";
 import BN from "bn.js";
 import assert from "assert";
